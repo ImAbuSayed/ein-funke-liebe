@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funke-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ein Funke Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-liebe/) |
+| **Get License** | [Secure Licensing Rights for Ein Funke Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4603)
 
 ---
 
