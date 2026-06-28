@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funke-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ein Funke Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-liebe/) |
+| **Get License** | [Official Music Licensing for Ein Funke Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein in den tiefschwarzen Benz
+> Wir rasen durch die Nacht, bis du keine Grenzen kennst
+> Dein Blick ist wie Feuer, ein Funke Liebe brennt
+> Nur du und ich, bevor uns der Morgen hier trennt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
